@@ -1,4 +1,5 @@
 # MiEjercicioGuia
 https://github.com/queraltsierra/MiEjercicioGuia.git
 # MiEjercicioGuia
-#Versión Con Conexión Desconexión
+#Versión Con Conexión Desconexión y concurrencia
+
